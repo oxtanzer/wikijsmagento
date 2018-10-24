@@ -1,0 +1,2 @@
+# wikijsmagento
+Magento Documentation
